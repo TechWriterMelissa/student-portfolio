@@ -18,6 +18,7 @@ As a Classroom teacher, you can add videos to any class using the Classwork page
 ### Link to a class topic and post
 9. In the panel on the right, click the **Topic** dropdown
 10. Select the class **Topic** where you want the video to appear.
-11. In the upper right hand corner, click **Post**.
+11. In the upper right hand corner, click **Post**.  
+</br>
 
 Learn more about adding [materials to a Classwork page](https://support.google.com/edu/classroom/answer/9123621?hl=en&co=GENIE.Platform%3DDesktop#zippy=%2Cadd-materials%2Cpost-schedule-or-save-drafted-material).
