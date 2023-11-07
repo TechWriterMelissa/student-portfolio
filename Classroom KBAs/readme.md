@@ -19,6 +19,6 @@ Marie is an experienced performer and recording artist who offers vocal coaching
 ## Final Product
 [About Classroom Home Page](https://github.com/TechWriterMelissa/student-portfolio/blob/main/Classroom%20KBAs/about-classroom-homepage.md)  
 [Upload and post video to a class](https://github.com/TechWriterMelissa/student-portfolio/blob/main/Classroom%20KBAs/upload-and-post-video-to-a-class.md)  
-Classroom Quick Reference  
+[Classroom Quick Reference](https://github.com/TechWriterMelissa/student-portfolio/edit/main/Classroom%20KBAs/quick-reference.md)  
 [Troubleshooting - Notifications](https://github.com/TechWriterMelissa/student-portfolio/blob/main/Classroom%20KBAs/troubleshooting-notifications.md)  
 [Classroom FAQs](https://github.com/TechWriterMelissa/student-portfolio/blob/main/Classroom%20KBAs/classroom-faqs.md)
