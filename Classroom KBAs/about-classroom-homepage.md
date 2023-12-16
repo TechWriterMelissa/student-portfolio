@@ -10,7 +10,7 @@ The Home page is a dashboard that displays your Classroom at a glance. When you 
 * Return to the **Home** page anytime by clicking Menu > Home
 
 ### Class Cards 
-Class cards are a visual representation of your classes. When the Home page is active, class cards are displayed on the right.
+Class cards are a visual representation of your classes. When the Home page is active, class cards are displayed on the right. If there are no cards displayed, it means you have not yet created a class or no classes have been assigned to you.  
 
 **Tip:**
 * On the **Home** page, click the plus sign in the upper right-hand corner of the toolbar to [create a new class](https://support.google.com/edu/classroom/answer/6020273?sjid=10527478863130359399-NA). 
