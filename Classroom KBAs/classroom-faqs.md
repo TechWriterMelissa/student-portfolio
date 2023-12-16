@@ -1,4 +1,4 @@
-## Classroom FAQs
+# Classroom FAQs
 ##### Can I use Classroom to teach singing lessons? 
 Yes, Classroom is perfect for video uploads and other types of content typically used by music teachers. Your students can even record their own video assignments and upload them for you to review their progress. You can also do live one-on-one lessons through Google Meet. All you need to get started with Classroom is a [Gmail account](https://support.google.com/mail/answer/56256?hl=en). 
  
