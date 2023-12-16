@@ -1,4 +1,4 @@
-## About Classroom Home Page
+# About Classroom Home Page
 *This article is for teachers. Students, [go here](https://support.google.com/edu/classroom/answer/9582544#zippy=%2Ccommunicate-with-your-teacher-or-classmates%2Cjoin-a-video-meeting%2Cstart-or-turn-in-your-classwork%2Csee-your-feedback-or-grade%2Cmanage-your-account-classes-or-notifications%2Cexplore-the-home-page%2Cexplore-the-stream-page%2Cexplore-the-classwork-page%2Cexplore-the-people-page).*
 
 Learn about the Classroom Home page.
