@@ -1,4 +1,4 @@
-## Docs as Code - Knowledge Base Articles Assignment
+## Writing Sample - Knowledge Base Articles
 The following work was completed as part of a student project at Our Best Words. 
 
 ### The Assignment
